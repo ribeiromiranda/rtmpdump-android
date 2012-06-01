@@ -1,0 +1,6 @@
+git clone:
+	git clone --recursive git@github.com:ardemiranda/rtmpdump-android.git
+
+
+rtmpdump:
+	http://rtmpdump.mplayerhq.hu
