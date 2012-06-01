@@ -1,0 +1,3 @@
+[submodule "jni/rtmpdump"]
+	path = jni/rtmpdump
+	url = git://git.ffmpeg.org/rtmpdump

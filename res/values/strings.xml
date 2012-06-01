@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Rtmpdump!</string>
+    <string name="app_name">Rtmpdump-android</string>
+    <string name="url">URL</string>
+    <string name="path_destination">path destination</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
